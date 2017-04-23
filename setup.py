@@ -7,6 +7,7 @@ license = open('LICENSE').read()
 
 setup(name='gl-test',
       author='Luke Campbell',
+      author_email='luke.s.campbell+pypi@gmail.com',
       url='https://github.com/lukecampbell/python-gl-test',
       version='0.0.1',
       license=license,
